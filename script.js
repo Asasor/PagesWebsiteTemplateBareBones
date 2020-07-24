@@ -1,3 +1,4 @@
-
 var canvas = document.getElementById('mainCanvas'),
-context = canvas.getContext('2d');
+    context = canvas.getContext('2d');
+
+alert("working")
